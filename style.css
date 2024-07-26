@@ -1,0 +1,20 @@
+body {
+  min-height: 2000px;
+  overflow-y: auto;
+}
+
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #e2edff;
+}
+
+#projects {
+  background-color: #e2edff;
+  padding-top: 0; /* Menghilangkan padding atas jika ada */
+}
+
+svg {
+  display: block;
+  margin: 0; /* Menghilangkan margin yang tidak diinginkan */
+  padding: 0; /* Menghilangkan padding yang tidak diinginkan */
+}
